@@ -14,7 +14,8 @@ In order to run this container you'll need docker installed.
 
 ## Usage
 
-```docker pull laurellweinder/currencyconverter .```
+```docker run laurellweinder/currencyconverter```
+
 
 ## To use it without Docker
 Copy the repository.
